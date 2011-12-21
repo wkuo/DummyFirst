@@ -1,1 +1,6 @@
 Test fix 1 check in to ticket
+
+start of 1st commit
+ insert a few lines without force sync 
+end of 2nd commit
+
