@@ -1,6 +1,10 @@
 Test fix 1 check in to ticket
 
-start of 1st commit
+start of 2nd commit
  insert a few lines without force sync 
 end of 2nd commit
+
+start of 3rd commit
+  this is the real one without force sync
+end of 3rd commit
 
