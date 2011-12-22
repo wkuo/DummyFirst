@@ -8,3 +8,6 @@ start of 3rd commit
   this is the real one without force sync
 end of 3rd commit
 
+commit bundle 01
+should not force sync too
+end commit bundle 01
