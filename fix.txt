@@ -19,4 +19,5 @@ commit again after long time
 
 Test jira hook api
 
+Test jira hook api with Lighthouse msg
 
