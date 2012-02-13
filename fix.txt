@@ -22,3 +22,4 @@ Test jira hook api
 Test jira hook api with Lighthouse msg
 
 pub
+sub
