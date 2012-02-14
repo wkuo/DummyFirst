@@ -6,3 +6,5 @@ read headernames2
 read X-Hub-Signature
 compare signature
 compare signature 2
+compare signature 3
+
