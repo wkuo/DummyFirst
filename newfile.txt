@@ -4,3 +4,4 @@ with secret
 read headernames
 read headernames2
 read X-Hub-Signature
+compare signature
