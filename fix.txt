@@ -29,3 +29,5 @@ read
 url
 double
 pubsubhubbub
+ec2
+
